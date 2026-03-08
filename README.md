@@ -29,7 +29,7 @@ A Python tool that extracts text from images using Tesseract OCR and saves the r
 
 ---
 
-## ⚙️ Requirements
+## Requirements
 
 - Python 3.7+
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installed on your system
@@ -39,7 +39,7 @@ A Python tool that extracts text from images using Tesseract OCR and saves the r
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### 1. Clone the repository
 
@@ -75,7 +75,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Image-to-text-using-OCR/
@@ -93,7 +93,7 @@ Image-to-text-using-OCR/
 
 ---
 
-## 🖥️ How to Use
+## How to Use
 
 ### Step 1 — Add your images
 
@@ -128,7 +128,7 @@ output/extracted_20240315_143022.json
 
 ---
 
-## 📄 Output Formats
+## Output Formats
 
 ### 1. JSON
 Structured data — best for developers or further processing.
@@ -171,7 +171,7 @@ Spreadsheet-friendly — best for analysis in Excel or Google Sheets.
 
 ---
 
-## 🖼️ Supported Image Types
+## Supported Image Types
 
 | Format | Extension |
 |--------|-----------|
@@ -184,7 +184,7 @@ Spreadsheet-friendly — best for analysis in Excel or Google Sheets.
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 **`TesseractNotFoundError`**
 Tesseract is not installed or not in your PATH. Follow the [installation steps](#3-install-tesseract-ocr) above.
