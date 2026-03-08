@@ -18,7 +18,7 @@ A Python tool that extracts text from images using Tesseract OCR and saves the r
 
 ---
 
-## ✨ Features
+## Features
 
 - Extracts text from multiple images in one run
 - Choose your output format: **JSON**, **TXT**, or **CSV**
