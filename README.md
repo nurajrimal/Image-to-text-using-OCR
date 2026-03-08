@@ -6,7 +6,7 @@ A Python tool that extracts text from images using Tesseract OCR and saves the r
 
 ## 📋 Table of Contents
 
-- [Features](#features)
+- [Features](#Features)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Project Structure](#project-structure)
@@ -202,12 +202,5 @@ Create an `images/` folder in the same directory as `main.py` and add your image
 
 ---
 
-## 🤝 Contributing
 
-Pull requests are welcome! If you find a bug or have a feature request, feel free to open an issue.
 
----
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
